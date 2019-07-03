@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/MSMRamzan/DevOpsSample002/_apis/build/status/RamzanMSM.pipelines-java?branchName=master)](https://dev.azure.com/MSMRamzan/DevOpsSample002/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
